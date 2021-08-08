@@ -1,5 +1,5 @@
-# Repositorio do Desafio de projeto Digital One -  GitHub
-Projeto Desafio GitHub
+# Desafio de projeto Digital One -  GitHub
+Repositorio criado para o desafio de Projeto.
 
-#links Uteis
+##links Uteis
 [Sintaxe Basica Markdown](www.marddown.org/baasic-syntax)
